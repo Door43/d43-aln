@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aln:home|Door43 (aln)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aln|d43-aln repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aln/archive/master.zip|d43-aln.zip]]
+
+**Recent Changes**
+{{changes>ns = aln}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aln|Ethnologue data]]
+
